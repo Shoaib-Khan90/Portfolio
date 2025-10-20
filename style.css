@@ -198,3 +198,20 @@ h4{
         color: green;
         margin-left: 43%;
     }
+
+    #left{
+        display: inline-block;
+    }
+
+    #right{
+           display: inline-block;
+    }
+
+    #right>img{
+        display: inline-block;
+        max-width:fit-content;
+    }
+
+    #main{
+        display: inline;
+    }
